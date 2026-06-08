@@ -1,15 +1,17 @@
-# Contribution [#]: [Issue Title]
+# Contribution [1]: [Notifications for long running hooks]
 
-**Contribution Number:** [1 / 2 / 3]  
-**Student:** [Your Name]  
-**Issue:** [GitHub issue link]  
-**Status:** [Phase I / Phase II / Phase III / Phase IV] [In Progress / Complete]
+**Contribution Number:** [1]  
+**Student:** [Shriya Upadhyay]  
+**Issue:** [[GitHub issue link](https://github.com/lakekeeper/lakekeeper/issues/1101)]  
+**Status:** [Phase I] [Complete]
 
 ---
 
 ## Why I Chose This Issue
 
 [1-2 paragraphs explaining why this issue interests you, how it matches your skills/learning goals, what you hope to learn]
+
+This issue interests me because it involves Rust, a language I'm hoping to become more familiar with. Adding an observability feature seems like a great place to get started. I also appreciated how specific the prompt was, so I have a head start on replicating the issue and a clearer idea of where in the codebase to start. I don't have much experience in the data infrastructure space, but I'm excited to expand my skill set. My background is in Python and TypeScript building agentic AI systems, so understanding the infrastructure layer that supports those systems is something I'm genuinely motivated to learn. Through this project, I hope to get comfortable contributing to a large-scale codebase, communicate my changes clearly, and use AI tools thoughtfully rather than excessively.
 
 ---
 
